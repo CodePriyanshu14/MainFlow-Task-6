@@ -1,0 +1,10 @@
+/* src/components/ImageGallery.css */
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 20px;
+  }
+  
